@@ -1,0 +1,27 @@
+.jumbotron{
+    background-color: grey;
+    color:white;
+}
+.game {
+    display:flex;
+    width: auto;
+    height: auto;
+    flex-wrap: wrap;
+    border: 1px grey dashed;   
+    background-color:white;
+    text-align: center
+}
+.play-to-win {
+    margin:auto;
+    margin-left:25%;
+    width: 50%;
+    color: grey;
+    float:left;
+}
+.music {
+    margin:auto;
+    margin-left:25%;
+    width: 50%;
+    color: grey;
+    float:left;
+}
